@@ -11,4 +11,4 @@ At the moment i'm following an e-learning course in order to learn more about th
  * 🔭 I’m currently working on  __P5__
    
    
- * 🌱 I’m currently learning  __react.JS__
+ * 🌱 I’m currently learning  __node.JS__
