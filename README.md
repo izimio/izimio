@@ -11,6 +11,6 @@ At the moment i'm following an e-learning course in order to learn more about th
  * 🔭 I’m currently working on  __FINAL PROJECT__
    
     
- * 🎈 I’m currently learning  __Sequelize ORM__ 
+ * 🎈 I’m currently learning  __HOW TO RERENDER A FCKING COMPONENT IN VUEJS__ 
 
  * 🔓 Available to discuss  
