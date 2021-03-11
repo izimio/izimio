@@ -13,5 +13,5 @@ At the moment i'm following an e-learning course in order to learn more about th
     
  * 🎈 I’m currently learning  __CREATING A POWERPOINT__ 
 
- * 🔓 Available to discuss  
+ * 🔓 Available to discuss
  
