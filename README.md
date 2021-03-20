@@ -8,10 +8,10 @@ At the moment i'm following an e-learning course in order to learn more about th
  
  
 
- * 🔭 I’m currently working on  __FINAL PROJECT__
+ * 🔭 I’m currently working on  __saving time__
    
     
- * 🎈 I’m currently learning  __CREATING A POWERPOINT__ 
+ * 🎈 I’m currently learning  __C__ 
 
  * 🔓 Available to discuss 
  
