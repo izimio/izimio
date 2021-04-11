@@ -10,5 +10,5 @@ So basically i really started programming on __2020__ when i discovered the __C 
     
  * 🎈 I’m currently learning  __C__ 
  
- * 🔓 Available to discuss 
+ * 🔓 Available to discuss  
  
