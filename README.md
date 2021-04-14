@@ -5,6 +5,7 @@ Brand new noob inside the coding World ! I started codding on __2019__ with the 
 So basically i really started programming on __2020__ when i discovered the __C language__ ! 
  
 On november i started an e-learning course where i learned the __Web frontend/backend dev__
+                        
 And i've been recently __graduated__ and earned a *recognized degree*
   
  * 🔭 I’m currently working on  __saving time__ 
