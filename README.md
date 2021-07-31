@@ -8,7 +8,7 @@ On november i started an e-learning course with the OpenClassrooms program where
                         
 And i've been recently __graduated__ and earned a __degree__
   
- * 🔭 I’m currently working on  __42 pool__ 
+ * 🔭 I’m currently working on  __resting__ 
    
     
  * 🎈 I’m currently learning  __C__ 
