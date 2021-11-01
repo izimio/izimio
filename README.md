@@ -11,6 +11,6 @@ And i've been recently __graduated__
  * 🔭 I’m currently working on  __7/7 ça farm tekpi tout la s'maine__ 
    
     
- * 🎈 I’m currently learning  __C__ 
+ * 🎈 I’m currently learning  __CSFML__ 
  
  
