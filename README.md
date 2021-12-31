@@ -14,6 +14,9 @@ And i've been recently __graduated__
  * 🎈 I’m currently learning  __C__ 
  
  ---
-![Izimio's GitHub stats](https://github-readme-stats.vercel.app/api?username=izimio&count_private=true&show_icons=true&theme=radical)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izimio&bg_color=00000000&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats?)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izimio&bg_color=00000000&text_color=ffffff&count_private=true)](https://github.com/anuraghazra/github-readme-stats?" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=izimio&count_private=true&show_icons=true&theme=radical" />
+</a>
