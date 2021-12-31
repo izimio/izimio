@@ -11,6 +11,7 @@ And i've been recently __graduated__
  * 🔭 I’m currently working on  __7/7 ça farm tekpi tout la s'maine__ 
    
     
- * 🎈 I’m currently learning  __CSFML__ 
+ * 🎈 I’m currently learning  __C__ 
  
- 
+ ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izimio&show_icons=true&theme=radical)
