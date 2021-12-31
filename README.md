@@ -14,4 +14,4 @@ And i've been recently __graduated__
  * 🎈 I’m currently learning  __C__ 
  
  ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izimio&show_icons=true&theme=radical)
+![Izimio's GitHub stats](https://github-readme-stats.vercel.app/api?username=izimio&count_private=true&show_icons=true&theme=radical)
