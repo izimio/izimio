@@ -1,5 +1,5 @@
-I'm Izimio
-= 
+<h1 align="center">I'm Izimio</h1>
+
 
 Brand new noob inside the coding World ! I started codding on __2019__ with the basics, like __HTML__ AND __CSS__.
 So basically i really started programming on __2020__ when i discovered the __C language__ ! 
@@ -19,5 +19,5 @@ And i've been recently __graduated__
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=izimio&count_private=true&show_icons=true&theme=radical" />
-  <img align="center" src="https://zupimages.net/up/22/08/z7zj.gif" />
 </a>
+<p align="center"><img align="center" src="https://cdn.discordapp.com/emojis/654413208127537183.gif" /></p>
