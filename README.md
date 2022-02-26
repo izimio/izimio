@@ -19,4 +19,5 @@ And i've been recently __graduated__
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=izimio&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://zupimages.net/up/22/08/z7zj.gif" />
 </a>
