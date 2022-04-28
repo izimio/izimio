@@ -4,7 +4,9 @@ Hi 👋 My name is Joshua
 Epitech IT student
 ------------------
 
-Brand new noob inside the coding World ! I started codding on 2019 with the basics, like HTML AND CSS. So basically i really started programming on 2020 when i discovered the C language !
+Brand new noob inside the coding World !
+
+I started codding on 2019 with the basics, like HTML AND CSS. So basically i really started programming on 2020 when i discovered the C language !
 
 * 🌍  I'm based in Lyon
 * ✉️  You can contact me at [joshua.brionne@gmail.com](mailto:joshua.brionne@gmail.com)
