@@ -32,6 +32,8 @@ I started codding on 2019 with the basics, like HTML AND CSS. So basically i rea
 
 </p>
 
+<h3><a href="#"><img src="https://profile-counter.glitch.me/izimio/count.svg"></a> people were here before you ;)</h3>
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Izimio 🎈#8233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/joshua-brionne/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
