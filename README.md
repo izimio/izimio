@@ -10,9 +10,8 @@ I started codding on 2019 with the basics, like HTML AND CSS. So basically i rea
 
 * 🌍  I'm based in Lyon
 * ✉️  You can contact me at [joshua.brionne@gmail.com](mailto:joshua.brionne@gmail.com)
-* 🚀  I'm currently working at [iExec](https://iex.ec//)
-* 🧠  I'm learning TypeScript/Koa
-* 🤝  I'm open to collaborating on Interesting projects
+* 🚀  I'm currently working at Epitech
+* 🧠  I'm learning CPP/data-structure
 * ⚡  UwU
 
 ### Skills
