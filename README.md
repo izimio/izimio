@@ -3,7 +3,7 @@ Hi 👋 My name is Joshua
 
 ------------------
 <p align="center">
-    <img width="100%" height="200" src="https://i.postimg.cc/XYT4JNjj/epitech.png" alt="Epitech Banner">
+    <img  height="200" src="https://i.postimg.cc/XYT4JNjj/epitech.png" alt="Epitech Banner">
 </p>
 
 <p align="center">
