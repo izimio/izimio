@@ -7,7 +7,7 @@ Hi 👋 My name is Joshua
 </p>
 
 <p align="center">
-    <img width="80%" src="https://i.postimg.cc/dQz7bFdY/CV-Joshua-BRIONNE.png" alt="Joshua BRIONNE's CV">
+    <img width="80%" src="https://i.postimg.cc/7ZxZqHg0/CV-Joshua-BRIONNE.png" alt="Joshua BRIONNE's CV">
 </p>
 
 ✉️  You can contact me at [joshua.brionne@gmail.com](mailto:joshua.brionne@gmail.com)
