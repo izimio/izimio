@@ -5,7 +5,7 @@ Hi 👋 My name is Joshua
 -------------
 
 <p align="center">
-    <img width="80%" src="https://imgdb.net/storage/uploads/401cc7f96f32d06c790f4fc1758d95f01ef737717c06106c756495278075b0fd.png" alt="Joshua BRIONNE's CV">
+    <img width="80%" src="https://imgdb.net/storage/uploads/379e78394ce09dfe195bc8b5650e058498f0121f737002247c4e060b48610f12.png" alt="Joshua BRIONNE's CV">
 </p>
 
 
