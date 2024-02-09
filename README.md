@@ -3,9 +3,8 @@ Hi 👋 My name is Joshua
 </h1>
     
 -------------
-
 <p align="center">
-    <img width="80%" src="https://imgdb.net/storage/uploads/379e78394ce09dfe195bc8b5650e058498f0121f737002247c4e060b48610f12.png" alt="Joshua BRIONNE's CV">
+    <img width="80%" src="https://imgdb.net/storage/uploads/e68c43adfe0421627e4de7af9ad23fc2b639f59ca7adc0192954f392dd59df3c.png" alt="Joshua BRIONNE's CV">
 </p>
 
 
